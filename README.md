@@ -21,7 +21,7 @@ Inhalt der Präsentation
 * Was machen wir?
 
 # Historie
-* Frau S.
+* Frau Schiffer: [Produkt-Innovationen gefällig? Frag deine Mitarbeiter!](http://de.slideshare.net/Erdbeervogel/produktinnovationen-gefllig-frag-deine-mitarbeiter) ([Video](https://www.youtube.com/watch?v=L-PYAidXHHU))
 * Igor
 
 # Was ist das?
