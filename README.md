@@ -19,6 +19,7 @@ Inhalt der Präsentation
 ## 1&1
 * Größe Unternehmen
 * Was machen wir?
+* Abteilung: Campus, Labs, Bookclub, DevDays
 
 # Historie
 * Frau Schiffer: [Produkt-Innovationen gefällig? Frag deine Mitarbeiter!](http://de.slideshare.net/Erdbeervogel/produktinnovationen-gefllig-frag-deine-mitarbeiter) ([Video](https://www.youtube.com/watch?v=L-PYAidXHHU))
