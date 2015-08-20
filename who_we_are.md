@@ -18,4 +18,5 @@
 * wir versuchen 4 mal im Jahr einen "DevDay" zu organisieren: eine Minikonferenz innerhalb der Abteilung (mit externer Beteiligung)
 * wir haben jedes Jahr Fokusthemen, denen wir uns vermehrt widmen (z.B. Microservices oder Continuous Delivery)
 * wir haben außerdem eine offene Feedback-Kultur
+* Bierkasse
 * wir organisieren regelmäßig private Treffen (Grillen, Früstüxx, LAN, Bier nach vier)
