@@ -25,10 +25,40 @@ Inhalt der Präsentation
 * Frau Schiffer: [Produkt-Innovationen gefällig? Frag deine Mitarbeiter!](http://de.slideshare.net/Erdbeervogel/produktinnovationen-gefllig-frag-deine-mitarbeiter) ([Video](https://www.youtube.com/watch?v=L-PYAidXHHU))
 * Igor
 
+# Wer macht etwas ähnliches?
+
+* [Xing](http://de.slideshare.net/Erdbeervogel/produktinnovationen-gefllig-frag-deine-mitarbeiter)
+* [Hack Week bei Suse](http://www.linux-magazin.de/NEWS/10.-Hack-Week-bei-Suse)
+* [Zalando Hack Week](https://corporate.zalando.de/de/zalando-technology-startet-mit-ueber-100-projektideen-die-dritte-hack-week)
+* [Facebook Hackathon](https://www.facebook.com/notes/facebook-engineering/the-all-night-hackathon-is-back/31942383919)
+* [SAP InnoJam](http://events.sap.com/hackathons/en/innojamberlin)
+* [Microsoft //oneweek](http://blogs.microsoft.com/firehose/2014/07/28/microsoft-kicks-off-oneweek-and-you-wont-believe-the-hacks/)
+* ...
+
 # Was ist das?
-* Rahmenbedingungen (z.B. Ideenfindung, Pitches, Jour Fixe, Teamfindung)
-* Abschlusspräsentation - Am Ende etwas präsentierfähiges
-* Regeln (Muss was mit Unternehmen zu tun haben?)
+
+## Regeln
+
+* Idee darf nicht dem Unternehmen schaden, und wäre gut wenn sie etwas mit dem Unternehmen zu tun hat
+* In einer Woche muss etwas vorzeigbares entstehen, z.B. Prototyp, aber auch ein Konzeptdokument oder eine Video
+
+## Größe
+
+* ca. 30 Mitarbeiter
+* 6(?) Projekte beim 1. mal
+
+## Vor Beginn
+
+* Jeder schlägt seine Ideen im Intranet (Wiki / "Forum") vor, damit man sich über Ideen austauschen kann und vllt. schonmal eine Vorauswahl anhand des Feedbacks erstellen kann
+* Zusätzlich hat - ca. 2 Monate vor der IW - jeder die Möglichkeit einmal die Woche in 2 min. seine Idee vor allen anderen zu pitchen um Mitstreiter zu finden
+* 1-2 Wochen vor der Innovation Week müssen die Teams und Projekte feststehen
+* Erfahrung zeigt, dass bereits eine Woche vor der IW relativ viele Vorbereitungen stattfinden (Infrastruktur etc.)
+
+## Durchführung
+
+* Kick-Off am Montag in dem jedes Team in 10 min. sein Projekt umreißt und ankündigt was diese Woche erreicht werden soll
+* Di-Do Jour Fixe in dem jedes Team in 1-2 min. einen Zwischenstand gibt
+* Freitag abends werden die Prototypen gegenseitig beim Essen vorgestellt, wobei jedes Team ~20min. hat
 
 # Erfahrungen
 * Probleme: An Produkten ausrichten / Nachhaltigkeit
