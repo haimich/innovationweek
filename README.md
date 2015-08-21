@@ -13,12 +13,13 @@ Namensvorschläge:
 
 ---
 ## Aufbau
-Wer wir sind (Wir, Abteilung, Firma)
-Worum geht es? (Agenda, Teaser, Warum sind wir hier?)
-Historie
-Wer macht etwas ähnliches?
-Was ist das? (Regeln, Größe, Vor Beginn, Durchführung)
-Erfahrungen
+* Wer wir sind (Wir, Abteilung, Firma)
+* Worum geht es? (Agenda, Teaser, Warum sind wir hier?)
+* Historie
+* Wer macht etwas ähnliches?
+* Was ist das? (Regeln, Größe, Vor Beginn, Durchführung)
+* Erfahrungen
+* Fragen und Diskussion
 
 ---
 
