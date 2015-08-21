@@ -33,7 +33,8 @@ Inhalt der Präsentation
 * [Facebook Hackathon](https://www.facebook.com/notes/facebook-engineering/the-all-night-hackathon-is-back/31942383919)
 * [SAP InnoJam](http://events.sap.com/hackathons/en/innojamberlin)
 * [Microsoft //oneweek](http://blogs.microsoft.com/firehose/2014/07/28/microsoft-kicks-off-oneweek-and-you-wont-believe-the-hacks/)
-* ...
+* [Spotify Hack Week](https://labs.spotify.com/2013/02/15/organizing-a-hack-week/)
+* [Netflix Hack Day](http://techblog.netflix.com/2014/08/netflix-hack-day-summer-2014.html)
 
 # Was ist das?
 
