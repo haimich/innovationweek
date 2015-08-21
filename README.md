@@ -64,9 +64,13 @@ Inhalt der Präsentation
 
 ## Durchführung
 
+* Key-Note
 * Kick-Off am Montag in dem jedes Team in 10 min. sein Projekt umreißt und ankündigt was diese Woche erreicht werden soll
 * Di-Do Jour Fixe in dem jedes Team in 1-2 min. einen Zwischenstand gibt
 * Freitag abends werden die Prototypen gegenseitig beim Essen vorgestellt, wobei jedes Team ~20min. hat
+* Shout-out Wall
+* Chill-out Areas (gingen eher unter)
+* Team saßen zusammen (neue Büroordnung)
 
 # Erfahrungen
 * Probleme: An Produkten ausrichten / Nachhaltigkeit
