@@ -36,6 +36,13 @@ Inhalt der Präsentation
 * [Spotify Hack Week](https://labs.spotify.com/2013/02/15/organizing-a-hack-week/)
 * [Netflix Hack Day](http://techblog.netflix.com/2014/08/netflix-hack-day-summer-2014.html)
 
+### Was stellen wir vor?
+
+* Kurzüberblick
+* 1-2 detailliertere Beispiele (z.B. Idee dahinter / Philosophie)
+* ggf. direkten Kontakt aufnehmen und sich über Erfahrungen austauschen
+* Zeigen dass es kein Einzelphänomen ist -> Effekt s. Erfahrungen
+
 # Was ist das?
 
 ## Regeln
