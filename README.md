@@ -71,6 +71,7 @@ Inhalt der Präsentation
 * Shout-out Wall
 * Chill-out Areas (gingen eher unter)
 * Team saßen zusammen (neue Büroordnung)
+* Bis auf die Teamleiter waren -angekündigterweise- niemand erreichbar (telefonisch & E-Mail) 
 
 # Erfahrungen
 * Probleme: An Produkten ausrichten / Nachhaltigkeit
