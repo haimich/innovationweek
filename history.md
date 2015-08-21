@@ -1,6 +1,6 @@
 ## Historie
 * die Innovation Week fand bei 1&1 zum ersten Mal 2013 statt
-* die initiale Idee kam aber schon ein Jahr vorher auf, die Inspiration kam damals von einem Vortrag auf dem Karlsruher Entwicklertag von Victoria Schiffer von XING (https://www.youtube.com/watch?v=L-PYAidXHHU)
+* die initiale Idee kam aber schon 2 Jahre vorher auf, die Inspiration kam damals von einem Vortrag auf dem Karlsruher Entwicklertag von Victoria Schiffer von XING (https://www.youtube.com/watch?v=L-PYAidXHHU)
 * sie hat in ihrem Vortrag unsere Probleme aufgezählt
 * wir haben relativ lange gebraucht, um alle Entscheider von der Idee zu überzeugen
 * es gab vor allem Bedenken, ob die Produktverantwortlichen die Idee gutheißen würden (angesichts der Tatsache dass sie sowieso oft auf Features verzichten müssen, weil die Entwicklung "nicht schnell genug vorankommt")
