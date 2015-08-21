@@ -21,6 +21,7 @@
 * hohe Motivation bei allen
 * es ist sehr befreiend, wenn man keine Einschränkungen hat (Technologiewahl etc.)
 * weniger Unterbrechungen als im Tagesgeschäft
+* Potenzial, neue Mitarbeiter für die Firma zu interessieren
 
 ### Probleme
 * vielversprechende Projekte wurden nach der Woche nicht weiterverfolgt
