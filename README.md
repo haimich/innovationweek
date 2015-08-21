@@ -53,13 +53,13 @@ Inhalt der Präsentation
 ## Größe
 
 * ca. 30 Mitarbeiter
-* 6(?) Projekte beim 1. mal
+* 5 Projekte beim 1. mal
 
 ## Vor Beginn
 
 * Jeder schlägt seine Ideen im Intranet (Wiki / "Forum") vor, damit man sich über Ideen austauschen kann und vllt. schonmal eine Vorauswahl anhand des Feedbacks erstellen kann
-* Zusätzlich hat - ca. 2 Monate vor der IW - jeder die Möglichkeit einmal die Woche in 2 min. seine Idee vor allen anderen zu pitchen um Mitstreiter zu finden
-* 1-2 Wochen vor der Innovation Week müssen die Teams und Projekte feststehen
+* Zusätzlich hat - ca. 2 Monate vor der IW - jeder die Möglichkeit einmal die Woche in 2 min. seine Idee vor allen anderen zu pitchen um Mitstreiter zu finden - Begriffserklärung _Elevetor Pitch_
+* 1-2 Wochen vor der Innovation Week müssen die Teams und Projekte feststehen (beim 1. mal per E-Mail eingereicht: Idee und wer mitmacht)
 * Erfahrung zeigt, dass bereits eine Woche vor der IW relativ viele Vorbereitungen stattfinden (Infrastruktur etc.)
 
 ## Durchführung
