@@ -12,6 +12,15 @@ Namensvorschläge:
 * **Innovation Week: 1 Woche für meine Idee** (_aktueller Favorit_)
 
 ---
+## Aufbau
+Wer wir sind (Wir, Abteilung, Firma)
+Worum geht es? (Agenda, Teaser, Warum sind wir hier?)
+Historie
+Wer macht etwas ähnliches?
+Was ist das? (Regeln, Größe, Vor Beginn, Durchführung)
+Erfahrungen
+
+---
 
 Inhalt der Präsentation
 
