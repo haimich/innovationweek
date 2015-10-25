@@ -1,2 +1,10 @@
-.idea
+.DS_Store
+slides/.svn
+slides/log/*.log
+slides/tmp/**
+slides/node_modules/
+slides/.sass-cache
+slides/css/reveal.min.css
+slides/js/reveal.min.js
 *.iml
+.idea/
