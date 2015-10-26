@@ -5,7 +5,7 @@
  */
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url(../../lib/font/amatic-sc/amatic-sc.css);
-@import url(../../lib/font/just-me-again-down-here/just-me-again-down-here.css);
+@import url(../../lib/font/schoolbell/schoolbell.css);
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
   color: #fff; }
 
@@ -31,7 +31,7 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Just Me Again Down Here", cursive;
+  font-family: "Schoolbell", cursive;
   font-size: 38px;
   font-weight: normal;
   color: #222; }

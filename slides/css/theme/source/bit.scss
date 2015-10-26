@@ -14,7 +14,8 @@
 // Include theme-specific fonts
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url(../../lib/font/amatic-sc/amatic-sc.css);
-@import url(../../lib/font/just-me-again-down-here/just-me-again-down-here.css);
+//@import url(../../lib/font/just-me-again-down-here/just-me-again-down-here.css);
+@import url(../../lib/font/schoolbell/schoolbell.css);
 
 
 // Override theme settings (see ../template/settings.scss)
@@ -24,7 +25,8 @@ $mainColor: #222;
 $headingColor: #222;
 
 $mainFontSize: 38px;
-$mainFont: 'Just Me Again Down Here', cursive;
+//$mainFont: 'Just Me Again Down Here', cursive;
+$mainFont: 'Schoolbell', cursive;
 $headingFont: 'Amatic SC', cursive;
 $headingTextShadow: none;
 $headingLetterSpacing: normal;
