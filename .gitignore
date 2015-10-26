@@ -8,3 +8,4 @@ slides/css/reveal.min.css
 slides/js/reveal.min.js
 *.iml
 .idea/
+npm-debug.log
