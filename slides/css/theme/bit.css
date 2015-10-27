@@ -6,8 +6,23 @@
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url(../../lib/font/amatic-sc/amatic-sc.css);
 @import url(../../lib/font/schoolbell/schoolbell.css);
-section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
-  color: #fff; }
+.tip-number {
+  float: left;
+  vertical-align: middle;
+  display: inline-block;
+  line-height: 0px !important;
+  border-radius: 50%;
+  border: 5px solid #fff !important;
+  font-size: 3em !important; }
+  .tip-number span {
+    display: inline-block;
+    padding-top: 50%;
+    padding-bottom: 50%;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 600;
+    color: #fff; }
 
 ul.no-bullets {
   list-style: none !important; }

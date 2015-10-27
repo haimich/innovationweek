@@ -3,20 +3,15 @@
  *
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
-
-
 // Default mixins and settings -----------------
 @import "../template/mixins";
 @import "../template/settings";
 // ---------------------------------------------
-
-
 // Include theme-specific fonts
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url(../../lib/font/amatic-sc/amatic-sc.css);
 //@import url(../../lib/font/just-me-again-down-here/just-me-again-down-here.css);
 @import url(../../lib/font/schoolbell/schoolbell.css);
-
 
 // Override theme settings (see ../template/settings.scss)
 $backgroundColor: #fff;
@@ -33,18 +28,40 @@ $headingLetterSpacing: normal;
 $headingTextTransform: uppercase;
 $headingFontWeight: 600;
 $linkColor: #2a76dd;
-$linkColorHover: lighten( $linkColor, 15% );
-$selectionBackgroundColor: lighten( $linkColor, 25% );
+$linkColorHover: lighten($linkColor, 15%);
+$selectionBackgroundColor: lighten($linkColor, 25%);
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
-section.has-dark-background {
-	&, h1, h2, h3, h4, h5, h6 {
-		color: #fff;
-	}
+.tip-number {
+  float: left;
+  vertical-align: middle;
+
+  display: inline-block;
+  line-height: 0px !important;
+
+  border-radius: 50%;
+  border: 5px solid #fff !important;
+
+  font-size: 3em !important;
+
+  span {
+    display: inline-block;
+
+    padding-top: 50%;
+    padding-bottom: 50%;
+
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+
+    font-family: 'Amatic SC', cursive;
+    font-weight: 600;
+
+    color: #fff;
+  }
 }
 
 ul.no-bullets {
