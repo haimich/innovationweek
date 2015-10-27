@@ -46,10 +46,8 @@
 ul.no-bullets {
   list-style: none !important; }
 
-.white-font-section {
-  color: #fff; }
-  .white-font-section h1, .white-font-section h2, .white-font-section h3, .white-font-section h4, .white-font-section h5, .white-font-section h6 {
-    color: #fff !important; }
+.white-font-section, .white-font-section h1, .white-font-section h2, .white-font-section h3, .white-font-section h4, .white-font-section h5, .white-font-section h6 {
+  color: #fff !important; }
 
 .left-aligned {
   text-align: left; }
@@ -256,9 +254,9 @@ body {
 .reveal a {
   color: #2a76dd;
   text-decoration: none;
-  -webkit-transition: color .15s ease;
-  -moz-transition: color .15s ease;
-  transition: color .15s ease; }
+  -webkit-transition: color 0.15s ease;
+  -moz-transition: color 0.15s ease;
+  transition: color 0.15s ease; }
 
 .reveal a:hover {
   color: #6ca0e8;
@@ -283,9 +281,9 @@ body {
   box-shadow: none; }
 
 .reveal a img {
-  -webkit-transition: all .15s linear;
-  -moz-transition: all .15s linear;
-  transition: all .15s linear; }
+  -webkit-transition: all 0.15s linear;
+  -moz-transition: all 0.15s linear;
+  transition: all 0.15s linear; }
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
@@ -347,3 +345,6 @@ img.bit-logo {
   border: none !important;
   box-shadow: none !important;
   background: none !important; }
+
+.font-outlined, .font-outlined h1, .font-outlined h2, .font-outlined h3, .font-outlined h4, .font-outlined h5, .font-outlined h6 {
+  text-shadow: -5px -5px 0 #232323, -5px -4px 0 #232323, -5px -3px 0 #232323, -5px -2px 0 #232323, -5px -1px 0 #232323, -5px 0px 0 #232323, -5px 1px 0 #232323, -5px 2px 0 #232323, -5px 3px 0 #232323, -5px 4px 0 #232323, -5px 5px 0 #232323, -4px -5px 0 #232323, -4px -4px 0 #232323, -4px -3px 0 #232323, -4px -2px 0 #232323, -4px -1px 0 #232323, -4px 0px 0 #232323, -4px 1px 0 #232323, -4px 2px 0 #232323, -4px 3px 0 #232323, -4px 4px 0 #232323, -4px 5px 0 #232323, -3px -5px 0 #232323, -3px -4px 0 #232323, -3px -3px 0 #232323, -3px -2px 0 #232323, -3px -1px 0 #232323, -3px 0px 0 #232323, -3px 1px 0 #232323, -3px 2px 0 #232323, -3px 3px 0 #232323, -3px 4px 0 #232323, -3px 5px 0 #232323, -2px -5px 0 #232323, -2px -4px 0 #232323, -2px -3px 0 #232323, -2px -2px 0 #232323, -2px -1px 0 #232323, -2px 0px 0 #232323, -2px 1px 0 #232323, -2px 2px 0 #232323, -2px 3px 0 #232323, -2px 4px 0 #232323, -2px 5px 0 #232323, -1px -5px 0 #232323, -1px -4px 0 #232323, -1px -3px 0 #232323, -1px -2px 0 #232323, -1px -1px 0 #232323, -1px 0px 0 #232323, -1px 1px 0 #232323, -1px 2px 0 #232323, -1px 3px 0 #232323, -1px 4px 0 #232323, -1px 5px 0 #232323, 0px -5px 0 #232323, 0px -4px 0 #232323, 0px -3px 0 #232323, 0px -2px 0 #232323, 0px -1px 0 #232323, 0px 0px 0 #232323, 0px 1px 0 #232323, 0px 2px 0 #232323, 0px 3px 0 #232323, 0px 4px 0 #232323, 0px 5px 0 #232323, 1px -5px 0 #232323, 1px -4px 0 #232323, 1px -3px 0 #232323, 1px -2px 0 #232323, 1px -1px 0 #232323, 1px 0px 0 #232323, 1px 1px 0 #232323, 1px 2px 0 #232323, 1px 3px 0 #232323, 1px 4px 0 #232323, 1px 5px 0 #232323, 2px -5px 0 #232323, 2px -4px 0 #232323, 2px -3px 0 #232323, 2px -2px 0 #232323, 2px -1px 0 #232323, 2px 0px 0 #232323, 2px 1px 0 #232323, 2px 2px 0 #232323, 2px 3px 0 #232323, 2px 4px 0 #232323, 2px 5px 0 #232323, 3px -5px 0 #232323, 3px -4px 0 #232323, 3px -3px 0 #232323, 3px -2px 0 #232323, 3px -1px 0 #232323, 3px 0px 0 #232323, 3px 1px 0 #232323, 3px 2px 0 #232323, 3px 3px 0 #232323, 3px 4px 0 #232323, 3px 5px 0 #232323, 4px -5px 0 #232323, 4px -4px 0 #232323, 4px -3px 0 #232323, 4px -2px 0 #232323, 4px -1px 0 #232323, 4px 0px 0 #232323, 4px 1px 0 #232323, 4px 2px 0 #232323, 4px 3px 0 #232323, 4px 4px 0 #232323, 4px 5px 0 #232323, 5px -5px 0 #232323, 5px -4px 0 #232323, 5px -3px 0 #232323, 5px -2px 0 #232323, 5px -1px 0 #232323, 5px 0px 0 #232323, 5px 1px 0 #232323, 5px 2px 0 #232323, 5px 3px 0 #232323, 5px 4px 0 #232323, 5px 5px 0 #232323; }

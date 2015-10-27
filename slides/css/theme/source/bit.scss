@@ -95,8 +95,7 @@ ul.no-bullets {
 }
 
 .white-font-section {
-  color: #fff;
-  h1, h2, h3, h4, h5, h6 {
+  &, h1, h2, h3, h4, h5, h6 {
     color: #fff !important;
   }
 }
@@ -119,4 +118,21 @@ img.bit-logo {
   border: none !important;
   box-shadow: none !important;
   background: none !important;
+}
+
+@function stroke($stroke, $color) {
+  $shadow: ();
+  $from: $stroke*-1;
+  @for $i from $from through $stroke {
+    @for $j from $from through $stroke {
+      $shadow: append($shadow, $i*1px $j*1px 0 $color, comma);
+    }
+  }
+  @return $shadow;
+}
+
+.font-outlined {
+  &, h1, h2, h3, h4, h5, h6 {
+    text-shadow: stroke(5, #232323);
+  }
 }
