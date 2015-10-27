@@ -36,44 +36,59 @@ $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
+.tip {
+  display: table;
+}
+
 .tip-number {
-  float: left;
-  vertical-align: middle;
+  display: table-cell;
+  width: 10em;
 
-  display: inline-block;
-  line-height: 0px !important;
+  .tip-number-circle {
+    vertical-align: middle;
 
-  border-radius: 50%;
-  border: 5px solid #fff !important;
-
-  font-size: 3em !important;
-
-  span {
     display: inline-block;
+    line-height: 0px !important;
 
-    padding-top: 50%;
-    padding-bottom: 50%;
+    border-radius: 50%;
+    border: 5px solid #fff !important;
 
-    margin-left: 0.5em;
-    margin-right: 0.5em;
+    font-size: 3em !important;
 
-    font-family: 'Amatic SC', cursive;
-    font-weight: 600;
+    span {
+      display: inline-block;
 
-    color: #fff;
+      padding-top: 50%;
+      padding-bottom: 50%;
+
+      margin-left: 0.5em;
+      margin-right: 0.5em;
+
+      font-family: 'Amatic SC', cursive;
+      font-weight: 600;
+
+      color: #fff;
+    }
   }
+}
+
+.tip-content {
+  display: table-cell;
 }
 
 .reveal .slides section .fragment.highlight-gray,
 .reveal .slides section .fragment.highlight-current-gray, {
   opacity: 1;
-  visibility: visible; }
+  visibility: visible;
+}
 
 .reveal .slides section .fragment.highlight-gray.visible {
-  color: #52636d; }
+  color: #52636d;
+}
 
 .reveal .slides section .fragment.highlight-current-gray.current-fragment {
-  color: #52636d; }
+  color: #52636d;
+}
 
 ul.no-bullets {
   list-style: none !important;

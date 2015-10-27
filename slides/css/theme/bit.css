@@ -6,23 +6,31 @@
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 @import url(../../lib/font/amatic-sc/amatic-sc.css);
 @import url(../../lib/font/schoolbell/schoolbell.css);
+.tip {
+  display: table; }
+
 .tip-number {
-  float: left;
-  vertical-align: middle;
-  display: inline-block;
-  line-height: 0px !important;
-  border-radius: 50%;
-  border: 5px solid #fff !important;
-  font-size: 3em !important; }
-  .tip-number span {
+  display: table-cell;
+  width: 10em; }
+  .tip-number .tip-number-circle {
+    vertical-align: middle;
     display: inline-block;
-    padding-top: 50%;
-    padding-bottom: 50%;
-    margin-left: 0.5em;
-    margin-right: 0.5em;
-    font-family: 'Amatic SC', cursive;
-    font-weight: 600;
-    color: #fff; }
+    line-height: 0px !important;
+    border-radius: 50%;
+    border: 5px solid #fff !important;
+    font-size: 3em !important; }
+    .tip-number .tip-number-circle span {
+      display: inline-block;
+      padding-top: 50%;
+      padding-bottom: 50%;
+      margin-left: 0.5em;
+      margin-right: 0.5em;
+      font-family: 'Amatic SC', cursive;
+      font-weight: 600;
+      color: #fff; }
+
+.tip-content {
+  display: table-cell; }
 
 .reveal .slides section .fragment.highlight-gray,
 .reveal .slides section .fragment.highlight-current-gray {
