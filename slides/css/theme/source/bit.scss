@@ -136,3 +136,12 @@ img.bit-logo {
     text-shadow: stroke(5, #232323);
   }
 }
+
+.speakers {
+  display: table;
+  width: 100%;
+}
+
+.speaker {
+  display: table-cell;
+}
