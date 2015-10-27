@@ -24,6 +24,17 @@
     font-weight: 600;
     color: #fff; }
 
+.reveal .slides section .fragment.highlight-gray,
+.reveal .slides section .fragment.highlight-current-gray {
+  opacity: 1;
+  visibility: visible; }
+
+.reveal .slides section .fragment.highlight-gray.visible {
+  color: #ccc; }
+
+.reveal .slides section .fragment.highlight-current-gray.current-fragment {
+  color: #ccc; }
+
 ul.no-bullets {
   list-style: none !important; }
 
